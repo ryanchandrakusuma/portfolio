@@ -2,7 +2,8 @@
 All about the things that I've worked on.
 
 # Cashier App
-It is a small project that I made with my 2 other friends to learn how to make a website with ReactJS as front-end framework and Node and Express server as an API. My role is specifically to made an inventory management of the app, that consists of item list, adding item, adding the unit of the item, actions of the item such as edit (stock, price, name), and delete.
+It is a small project that I made with my 2 other friends to learn how to make a website with ReactJS as front-end framework and Node and Express server as an API. My role is specifically to made an inventory management of the app, that consists of item list, adding item, adding the unit of the item, actions of the item such as edit (stock, price, name), and delete.<br>
+<img src="images/web1.JPG" width="400" title="Cashier App1">
 
 # Adiwarna Antaradar
 Adiwarna Antaradar is a volunteer work that I did with my other friend when I was a student on Universitas Kristen Petra to make a website about the event. The event is pretty much an exhibition about the result of the final thesis of Petra's students that majoring in visual communication design. The event also has workshop that taught you how to make an embroidery totebag and using various paper for crafts. My specific role in this work is to make a main page and navbar for the website. I made this using bootstrap. <br>
