@@ -2,7 +2,7 @@
 All about the things that I've worked on.
 
 # Cashier App
-It is a small project that I made with my 2 other friends to learn how to make a website with ReactJS as front-end framework and Node and Express server as an API. My role is specifically to made an inventory management of the app, that consists of item list, adding item, adding the unit of the item, actions of the item such as edit (stock, price, name), and delete.<br>
+It is a small project that I made with my 2 other friends to learn how to make a website with ReactJS as front-end framework and Node.js as the back-end. My role is specifically to made an inventory management of the app, that consists of item list, adding item, adding the unit of the item, actions of the item such as edit (stock, price, name), and delete.<br>
 <p align="center">
   <img src="images/web1.JPG" width="800" title="Cashier App"><br>
   <img src="images/web2.JPG" width="800" title="Cashier App"><br>
