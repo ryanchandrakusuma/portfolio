@@ -27,6 +27,7 @@ AI GOAP is a project that I made for final thesis using Unreal Engine 4. In this
 
 # React Dashboard (On Progress)
 React dashboard is a study by myself to make a dashboard using React and NodeJS. For front-end, I used Material UI and Redux Toolkits, while the back-end used Express, Mongoose, and MongoDB. My objective is to learn how to make a website using react and fetch the APIs using NodeJS.
+repository : https://github.com/ryanchandrakusuma/react-admin
 <p align="center">
   <img src="images/react-admin-1.png" width="800" title="React"><br>
   <img src="images/react-admin-2.png" width="800" title="React"><br>
