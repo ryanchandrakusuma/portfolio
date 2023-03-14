@@ -35,6 +35,7 @@ repository : https://github.com/ryanchandrakusuma/react-admin
 
 # We's MD (On-Progress)
 We's MD is an app to read manga with reference from an app named Tachiyomi. I used Flutter and fetch the API straight from the Mangadex itself to make the app. I made this app for personal use, and I'm planning to put it to google play as a free app for everyone to use. My personal objective making this app is to re-learn how to make an app using Flutter and how to use the state management properly.  
+App link (debug version) : https://drive.google.com/drive/folders/1X44h6Z0WogdVmqDh81mM4a63jVsMkuMS?usp=sharing
 <p align="center">
   <img src="images/wemd-1.png" width="400" title="React">
   <img src="images/wemd-2.png" width="400" title="React"><br>
