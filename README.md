@@ -19,7 +19,9 @@ Website link : https://adiwarna.petra.ac.id/2019/<br>
 </p>
 
 # AI Goal-Oriented Action Planning
-AI GOAP is a project that I made for final thesis using Unreal Engine 4. In this thesis, I tried to implement Goal-Oriented Action Planning method to make the AI more adaptive, especially on Turn-based game. The result are, AI GOAP has better result based on how realistic AI's movement are, and level of palyer satisfaction. But in terms of difficulty based on player's opinion, AI with Finite-State Machine is harder than AI GOAP, mostly because the resources that AI FSM has are more than AI GOAP's.<br>
+AI GOAP is a project that I made for final thesis using Unreal Engine 4. In this thesis, I tried to implement Goal-Oriented Action Planning method to make the AI more adaptive, especially on Turn-based game. The result are, AI GOAP has better result based on how realistic AI's movement are, and level of palyer satisfaction. But in terms of difficulty based on player's opinion, AI with Finite-State Machine is harder than AI GOAP, mostly because the resources that AI FSM has are more than AI GOAP's.
+Github Link : https://github.com/ryanchandrakusuma/skripsi1
+<br>
 <p align="center">
   <img src="images/game1.JPG" width="800" title="GOAP"><br>
   <img src="images/game2.JPG" width="800" title="GOAP"><br>
@@ -36,6 +38,7 @@ repository : https://github.com/ryanchandrakusuma/react-admin
 # We's MD (On-Progress)
 We's MD is an app to read manga with reference from an app named Tachiyomi. I used Flutter and fetch the API straight from the Mangadex itself to make the app. I made this app for personal use, and I'm planning to put it to google play as a free app for everyone to use. My personal objective making this app is to re-learn how to make an app using Flutter and how to use the state management properly.  
 App link (debug version) : https://drive.google.com/drive/folders/1X44h6Z0WogdVmqDh81mM4a63jVsMkuMS?usp=sharing
+Github link : https://github.com/ryanchandrakusuma/We-s-MD
 <p align="center">
   <img src="images/wemd-1.png" width="400" title="React">
   <img src="images/wemd-2.png" width="400" title="React"><br>
