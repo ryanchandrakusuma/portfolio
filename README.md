@@ -3,6 +3,7 @@ All about the things that I've worked on in my free time.
 
 Business Inquiries : w.rookie3ryan@gmail.com
 
+# Personal / Learning Projects
 # Cashier App
 It is a small project that I made with my 2 other friends to learn how to make a website with ReactJS as front-end framework and Node.js as the back-end. My role is specifically to made an inventory management of the app, that consists of item list, adding item, adding the unit of the item, actions of the item such as edit (stock, price, name), and delete.<br>
 <p align="center">
@@ -18,15 +19,6 @@ Website link : https://adiwarna.petra.ac.id/2019/<br>
   <img src="images/web4.JPG" width="800" title="Adiwarna Antaradar"><br>
   <img src="images/web5.JPG" width="800" title="Adiwarna Antaradar"><br>
   <img src="images/web6.JPG" width="400" title="Adiwarna Antaradar"><br>
-</p>
-
-# AI Goal-Oriented Action Planning
-AI GOAP is a project that I made for final thesis using Unreal Engine 4. In this thesis, I tried to implement Goal-Oriented Action Planning method to make the AI more adaptive, especially on Turn-based game. The result are, AI GOAP has better result based on how realistic AI's movement are, and level of palyer satisfaction. But in terms of difficulty based on player's opinion, AI with Finite-State Machine is harder than AI GOAP, mostly because the resources that AI FSM has are more than AI GOAP's.
-Github Link : https://github.com/ryanchandrakusuma/skripsi1
-<br>
-<p align="center">
-  <img src="images/game1.JPG" width="800" title="GOAP"><br>
-  <img src="images/game2.JPG" width="800" title="GOAP"><br>
 </p>
 
 # React Dashboard
@@ -48,3 +40,28 @@ Github link : https://github.com/ryanchandrakusuma/We-s-MD
   <img src="images/wemd-4.png" width="400" title="React"><br>
 </p>
 
+# Freelance (Used/Published Projects)
+
+# AI Goal-Oriented Action Planning
+AI GOAP is a project that I made for final thesis using Unreal Engine 4. In this thesis, I tried to implement Goal-Oriented Action Planning method to make the AI more adaptive, especially on Turn-based game. The result are, AI GOAP has better result based on how realistic AI's movement are, and level of palyer satisfaction. But in terms of difficulty based on player's opinion, AI with Finite-State Machine is harder than AI GOAP, mostly because the resources that AI FSM has are more than AI GOAP's.
+Github Link : https://github.com/ryanchandrakusuma/skripsi1
+<br>
+<p align="center">
+  <img src="images/game1.JPG" width="800" title="GOAP"><br>
+  <img src="images/game2.JPG" width="800" title="GOAP"><br>
+</p>
+
+# AYOREK
+AYOREK is an Augmented Reality App that is intended for students to know Hotel Majapahit Surabaya's history. I worked as a team with other artists to make an app for their thesis using Unity and Vuforia. My specific role is to develop the application based on the thesis' objective and assets.
+<br>
+<p align="center">
+  <img src="images/ayorek1.JPG" width="800" title="AYOREK"><br>
+</p>
+
+# Warehouse Management
+Warehouse Management is a website to handle inventory management (almost like ERP) for NusaNet, such as stock transfer between warehouses, incoming items to warehouse, qc items in warehouses, purchase order, sales order, etc. I worked with other 2 collaborators, and used Laravel 9, Laravel Breeze for authentication, and AdminLTE for its dashboard templates. 
+<br>
+<p align="center">
+  <img src="images/warehouse-management1.JPG" width="800" title="Warehouse1"><br>
+  <img src="images/warehouse-management2.JPG" width="800" title="Warehouse2"><br>
+</p>
