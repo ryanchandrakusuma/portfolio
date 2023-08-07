@@ -61,6 +61,6 @@ AYOREK is an Augmented Reality App that is intended for students to know Hotel M
 Warehouse Management is a website to handle inventory management (almost like ERP) for NusaNet, such as stock transfer between warehouses, incoming items to warehouse, qc items in warehouses, purchase order, sales order, etc. I worked with other 2 collaborators, and used Laravel 9, Laravel Breeze for authentication, and AdminLTE for its dashboard templates. 
 <br>
 <p align="center">
-  <img src="images/warehouse1.jpg" width="800" title="Warehouse1"><br>
+  <img src="images/warehouse1.jpg" width="400" title="Warehouse1"><br>
   <img src="images/warehouse2.jpg" width="800" title="Warehouse2"><br>
 </p>
