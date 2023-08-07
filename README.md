@@ -54,13 +54,13 @@ Github Link : https://github.com/ryanchandrakusuma/skripsi1
 AYOREK is an Augmented Reality App that is intended for students to know Hotel Majapahit Surabaya's history. I worked as a team with other artists to make an app for their thesis using Unity and Vuforia. My specific role is to develop the application based on the thesis' objective and assets.
 <br>
 <p align="center">
-  <img src="images/ayorek1.JPG" width="800" title="AYOREK"><br>
+  <img src="images/AYOREK1.jpg" width="800" title="AYOREK"><br>
 </p>
 
 # Warehouse Management
 Warehouse Management is a website to handle inventory management (almost like ERP) for NusaNet, such as stock transfer between warehouses, incoming items to warehouse, qc items in warehouses, purchase order, sales order, etc. I worked with other 2 collaborators, and used Laravel 9, Laravel Breeze for authentication, and AdminLTE for its dashboard templates. 
 <br>
 <p align="center">
-  <img src="images/warehouse-management1.JPG" width="800" title="Warehouse1"><br>
-  <img src="images/warehouse-management2.JPG" width="800" title="Warehouse2"><br>
+  <img src="images/warehouse1.jpg" width="800" title="Warehouse1"><br>
+  <img src="images/warehouse2.jpg" width="800" title="Warehouse2"><br>
 </p>
