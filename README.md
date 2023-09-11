@@ -4,14 +4,6 @@ All about the things that I've worked on in my free time.
 Business Inquiries : w.rookie3ryan@gmail.com
 
 # Personal / Learning Projects
-# Cashier App
-It is a small project that I made with my 2 other friends to learn how to make a website with ReactJS as front-end framework and Node.js as the back-end. My role is specifically to made an inventory management of the app, that consists of item list, adding item, adding the unit of the item, actions of the item such as edit (stock, price, name), and delete.<br>
-<p align="center">
-  <img src="images/web1.JPG" width="800" title="Cashier App"><br>
-  <img src="images/web2.JPG" width="800" title="Cashier App"><br>
-  <img src="images/web3.JPG" width="400" title="Cashier App"><br>
-</p>
-
 # React Dashboard
 React dashboard is a study by myself to make a dashboard using React and NodeJS. For front-end, I used Material UI and Redux Toolkits, while the back-end used Express, Mongoose, and MongoDB. My objective is to learn how to make a website using react and fetch the APIs using NodeJS.
 repository : https://github.com/ryanchandrakusuma/react-admin
