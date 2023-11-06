@@ -55,3 +55,10 @@ Warehouse Management is a website to handle inventory management (almost like ER
   <img src="images/warehouse1_2.jpg" width="400" title="Warehouse1"><br>
   <img src="images/warehouse2.jpg" width="800" title="Warehouse2"><br>
 </p>
+
+# Simple CRUD Laravel
+I made this project to make my own template for simple interview / project assignment. I'm using Laravel Breeze for its authentication and dashboard. For extra layer development, I'm using Repository pattern to interact with databases directly and bridge it between models and controllers to make development cleaner and easier in mind. To make it better, you can implement AdminLTE template to your liking to make the dashboard and content better feature-wise. repository : https://github.com/ryanchandrakusuma/simple-crud-laravel
+<p align="center">
+  <img src="images/simple-crud-laravel-1.png" width="400" title="Warehouse1"><br>
+  <img src="images/simple-crud-laravel-2.png" width="800" title="Warehouse2"><br>
+</p>
