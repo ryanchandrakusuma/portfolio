@@ -7,7 +7,7 @@ Business Inquiries : w.rookie3ryan@gmail.com
 # Wewe-base-go
 This project is a study to familiarize myself with GO by making APIs with GIN Web Framework, viper for configuration from the .env file, and PostgreSQL using pgx. Other than that, I'm also trying to familiarize myself TDD, by using testify and mockery for testing. For reference, I'm using https://github.com/amitshekhariitbhu/go-backend-clean-architecture as a material. Repository : https://github.com/ryanchandrakusuma/wewe-base-go
 <p align="center">
-  <img src="images/wewe-base-go-1.png" width="1200" title="React"><br>
+  <img src="images/wewe-base-go-1.png" width="1200" title="Wewe-base-go"><br>
 </p>
 
 # React Dashboard
@@ -22,10 +22,10 @@ repository : https://github.com/ryanchandrakusuma/react-admin
 We's MD is an app to read manga with reference from an app named Tachiyomi. I used Flutter and fetch the API straight from the Mangadex itself to make the app. I made this app for personal use, and I'm planning to put it to google play as a free app for everyone to use. My personal objective making this app is to re-learn how to make an app using Flutter and how to use the state management properly.  
 App link (debug version) : https://drive.google.com/drive/folders/1X44h6Z0WogdVmqDh81mM4a63jVsMkuMS?usp=sharing
 <p align="center">
-  <img src="images/wemd-1.png" width="400" title="React">
-  <img src="images/wemd-2.png" width="400" title="React"><br>
-  <img src="images/wemd-3.png" width="400" title="React">
-  <img src="images/wemd-4.png" width="400" title="React"><br>
+  <img src="images/wemd-1.png" width="400" title="We-s MD">
+  <img src="images/wemd-2.png" width="400" title="We-s MD"><br>
+  <img src="images/wemd-3.png" width="400" title="We-s MD">
+  <img src="images/wemd-4.png" width="400" title="We-s MD"><br>
 </p>
 
 # Freelance (Used/Published Projects)
