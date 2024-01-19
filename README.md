@@ -4,12 +4,6 @@ All about the things that I've worked on in my free time.
 Business Inquiries : w.rookie3ryan@gmail.com
 
 # Personal / Learning Projects
-# Wewe-base-go
-This project is a study to familiarize myself with GO by making APIs with GIN Web Framework, viper for configuration from the .env file, and PostgreSQL using pgx. Other than that, I'm also trying to familiarize myself TDD, by using testify and mockery for testing. For reference, I'm using https://github.com/amitshekhariitbhu/go-backend-clean-architecture as a material. Repository : https://github.com/ryanchandrakusuma/wewe-base-go
-<p align="center">
-  <img src="images/wewe-base-go-1.png" width="1200" title="Wewe-base-go"><br>
-</p>
-
 # React Dashboard
 React dashboard is a study by myself to make a dashboard using React and NodeJS. For front-end, I used Material UI and Redux Toolkits, while the back-end used Express, Mongoose, and MongoDB. My objective is to learn how to make a website using react and fetch the APIs using NodeJS.
 repository : https://github.com/ryanchandrakusuma/react-admin
